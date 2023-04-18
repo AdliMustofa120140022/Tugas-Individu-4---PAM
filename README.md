@@ -1,4 +1,7 @@
 # HILING.ID V.2
 
 ---
-Download APP <a href="https://expo.dev/artifacts/eas/fb2yJcPZWuFvRb5FeYomLo.apk">HERE</a>.
+
+Download Apk <a href="https://expo.dev/artifacts/eas/qKjAMTWSWFSsdAzbBdFe5c.apk">Klik Disini</a>.
+Hasil Penerapan Thunk
+<img src="./assets/Tampilan Thunk.png"/>
